@@ -277,14 +277,14 @@ export default function SimpleModal(props) {
                                             <MenuItem value="null">
                                                 <em>None</em>
                                             </MenuItem>
-                                            <MenuItem Selected value={'1Story'}>Ten</MenuItem>
-                                            <MenuItem value={'2Story'}>Twenty</MenuItem>
-                                            <MenuItem value={'SFoyer'}>Thirty</MenuItem>
-                                            <MenuItem value={'SLvl'}>Thirty</MenuItem>
-                                            <MenuItem value={'1.5Fin'}>Ten</MenuItem>
-                                            <MenuItem value={'2.5Fin'}>Twenty</MenuItem>
-                                            <MenuItem value={'1.5Unf'}>Thirty</MenuItem>
-                                            <MenuItem value={'2.5Unf'}>Thirty</MenuItem>
+                                            <MenuItem Selected value={'1Story'}>One Story</MenuItem>
+                                            <MenuItem value={'2Story'}>Two Story</MenuItem>
+                                            <MenuItem value={'SFoyer'}>S Foyer</MenuItem>
+                                            <MenuItem value={'SLvl'}>Slevel</MenuItem>
+                                            <MenuItem value={'1.5Fin'}>1.5Fin</MenuItem>
+                                            <MenuItem value={'2.5Fin'}>2.5Fin</MenuItem>
+                                            <MenuItem value={'1.5Unf'}>1.5Unf</MenuItem>
+                                            <MenuItem value={'2.5Unf'}>2.5Unf</MenuItem>
                                         </Select>
                                     </FormControl>
                                 </Grid>
